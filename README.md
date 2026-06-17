@@ -1,7 +1,7 @@
 # Title of the project
 # Authors 
-- Imię Nazwisko
-- Imię Nazwisko
+- Bartosz Pióro
+- Karolina Nowak
 # Description of the project 
 Text here... 
 # Science and tech used 
